@@ -1,0 +1,24 @@
+# flash dumps, archives and generated output - not source
+*.bin
+*.rar
+*.zip
+*.7z
+*.ols
+*.sgo
+*.frf
+*.gbo
+*.mmf
+*.bak
+*.jpg
+*.JPG
+*.html
+*.pdf
+*.json
+*.txt
+*.log
+
+# build output
+build/
+dist/
+__pycache__/
+*.pyc
